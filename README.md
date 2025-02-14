@@ -1,7 +1,3 @@
-Here's a more detailed GitHub description for your project:  
-
----
-
 # 🖼️ Deep Learning Project: Image Classification  
 
 This repository contains an **image classification project** using deep learning. The project implements a **Convolutional Neural Network (CNN)** to classify images into different categories. The notebook covers the entire workflow, including **data preprocessing, model training, evaluation, and visualization of results**.  
